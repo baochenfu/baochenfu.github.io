@@ -8,103 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div>
-<a href="https://kailinjiang.github.io/">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:D22229,100:2B4FA3&text=Hi%2C%20I'm%20Kailin%20Jiang%2C%20%E8%92%8B%E5%87%AF%E6%9E%97&reversal=false&fontSize=40&fontAlignY=40&fontColor=FFFFFF" 
-    alt="Hi, I'm Kailin Jiang, 蒋凯林" 
-    style="width: 100%; height: auto;"
-  >
-</a>
-</div>
 
----
-
-I'm currently on this wild weight loss rollercoaster! It's definitely a challenge, full of stops and starts and all the crazy ups and downs. I'm hoping to use this journey as a way to capture **a snapshot of every 'me'** that shows up in all these different stages.
-
-<style>
-.activities-scroll { 
-  max-height: 300px; 
-  overflow-y: auto; 
-  padding: 8px 6px; 
-  border: 1px solid #eaeaea; 
-  border-radius: 12px; 
-  background: #fff; 
-  box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); 
-}
-.activities-scroll::-webkit-scrollbar { width: 8px; }
-.activities-scroll::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
-.activities-container { 
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: space-between; 
-  gap: 15px; 
-}
-.activities-item { 
-  flex: 0 0 calc(32.5% - 10px); 
-  text-align: center; 
-  min-width: 0;
-}
-.activities-item p {
-  font-size: 0.88em;
-  color: #666;
-  margin: 0;
-  font-weight: bold;
-  line-height: 1.2;
-  white-space: nowrap;
-}
-@media (max-width: 768px) {
-  .activities-item { flex: 0 0 100%; }
-  .activities-item p { white-space: normal; }
-}
-</style>
-
-<div class="activities-scroll">
-  <div class="activities-container">
-    <div class="activities-item">
-      <img src='images\activities\pku_IAI.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>北京大学 AI Tech Day·2025 (北京,2025.10.25)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\Tencent_xuanwu_lab.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>腾讯安全技术开放日 玄武实验室 (北京,2025.09.10)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\ml.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>BIGAI ML Lab团建 (北京,2025.06.13)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\jiqizhixin_ICLR25.jpeg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>机器之心ICLR 2025 论文分享会 (北京,2025.04.20)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\lainhuashan.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>莲花山研究院 二十周年研讨会 (湖北鄂州,2024.07.23)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\mas1.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>BIGAI MAS Lab (北京,2024.07.16)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\tongban.jpeg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>通班大会 (北京,2024.07.06)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\bdas.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>BDAS Lab (四川雅安,2022.06)</p>
-    </div>
-    <div class="activities-item">
-      <img src='images\activities\shumo.jpg' alt="sym" style="display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-      <p>数模国赛答辩 (四川成都,2021.10)</p>
-    </div>
-  </div>
-</div>
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
-
-<br>
-
-
-<span class='anchor' id='about-me'></span>
 # 😊 About me
 
 I am an upcoming joint **PhD student** at **the State Key Laboratory of General Artificial Intelligence** <a href='https://www.bigai.ai/'>(BIGAI)</a> and **the University of Science and Technology of China** (USTC), supervised by <a href='https://liqing.io/'>Qing Li(BIGAI, 李庆)</a> and <a href='http://staff.ustc.edu.cn/~binli/'>Bin Li (USTC, 李斌)</a>, <a href='https://faculty.ustc.edu.cn/liulei13/zh_CN/index.htm'>Lei Liu (USTC, 刘磊)</a>. Currently, I am doing my internship in State Key Laboratory of General Artificial Intelligence and working on knowledge editing/injection, multimodal continual learning, VLM evaluation. <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKailinJiang%2Fkailinjiang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKailinJiang%2Fkailinjiang@google-scholar-stats%2Ftotal-stars.json%3FcacheBuster%3D1">  [![GitHub followers](https://img.shields.io/github/followers/kailinjiang)](https://github.com/kailinjiang)
@@ -646,62 +550,7 @@ As these works are patented in China, all these names are directly translated fr
 
 
 <span class='anchor' id='competitions'></span>
-# 🏇🏻 Competitions
 
-## International & National Prizes
-
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
-	<ul>
-    <li><i>2023.12</i>: <a href="https://www.tiaozhanbei.net/">Challenge Cup National College Students' Extracurricular Academic and Technological Works Competition</a> (<span class="highlight-info">National Third Prize</span>, <span class="highlight-info">Core Member</span>)[育鸭有道]</li>
-    <li><i>2023.04</i>: <a href="https://cy.ncss.cn/">China International College Students' Innovation Competition</a> (<span class="highlight-info">National Third Prize</span>, <span class="highlight-info">Core Member</span>)[慧眼识鱼]</li>
-    <li><i>2023.04</i>: <a href="https://cy.ncss.cn/">China International College Students' Innovation Competition</a> (<span class="highlight-info">National Third Prize</span>, <span class="highlight-info">Core Member</span>)[育鸭有道]</li>
-   <li><i>2023.03</i>: <a href="https://www.tiaozhanbei.net/">Challenge Cup Chinese College Student Entrepreneurship Plan Competition</a> (<span class="highlight-info">National Third Prize</span>, <span class="highlight-info">Project Founder</span>)[掌上明'猪']</li>
-    <li><i>2021.11</i>: <a href="https://cy.ncss.cn/">China International College Students' Innovation Competition</a> (<span class="highlight-info">National Third Prize</span>, <span class="highlight-info">Core Member</span>)[慧眼识鱼]</li>
-    <li><i>2021.11</i>: <a href="https://www.mcm.edu.cn/">National College Student Mathematical Modeling Competition</a> (<span class="highlight-info">National First Prize</span>, <span class="highlight-info">Team Leader</span>, <span class="highlight-info">Top 0.59%</span>)[<a href="https://news.sicau.edu.cn/info/1078/65449.htm" target="_blank">Breaking SICAU's 30-year record: Sophomore Captain, National 1st Prize, First Attempt.</a>]</li>
-	</ul>
-</div>
-<!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div> -->
-
-## Regional & Provincial Prizes
-
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
-	<ul>
-    <li><i>2024.08</i>: <a href="https://www.ahyouth.org.cn/base/web/webNew/info_view.jsp?strId=1719192239598658">Anhui College Students Internet+Innovation and Entrepreneurship Competition</a> (<span class="highlight-info">Provincial Second Prize</span>, <span class="highlight-info">Core Member</span>)[妙语连'猪']</li>
-    <li><i>2024.08</i>: <a href="https://www.ahyouth.org.cn/base/web/webNew/info_view.jsp?strId=1719192239598658">Anhui Province College Student Entrepreneurship Plan Competition</a> (<span class="highlight-info">Provincial Second Prize</span>, <span class="highlight-info">Core Member</span>)[掌上明'猪']</li>
-    <li><i>2023.12</i>: <a href="https://edu.sc.gov.cn/scedu/cjhfwjk/2023/12/27/85907c561d6a451e86e38dfcdb323f4f.shtml">Sichuan International College Student Innovation Competition</a> (<span class="highlight-info">Provincial First Prize</span>, <span class="highlight-info">Core Member</span>)[慧猪帮]</li>
-		<li><i>2023.05</i>: <a href="https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AF%BE%E5%A4%96%E5%AD%A6%E6%9C%AF%E7%A7%91%E6%8A%80%E4%BD%9C%E5%93%81%E7%AB%9E%E8%B5%9B/657246740">Challenge Cup Sichuan Province College Students' Extracurricular Academic and Technological Works Competition</a> (<span class="highlight-info">Provincial Special Prize</span>, <span class="highlight-info">Core Member</span>, <span class="highlight-info">First place in the province's science and technology works competition</span>)[育鸭有道]</li>
-    <li><i>2023.05</i>: <a href="https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AF%BE%E5%A4%96%E5%AD%A6%E6%9C%AF%E7%A7%91%E6%8A%80%E4%BD%9C%E5%93%81%E7%AB%9E%E8%B5%9B/657246740">Challenge Cup Sichuan Province College Students' Extracurricular Academic and Technological Works Competition</a> (<span class="highlight-info">Provincial Third Prize</span>, <span class="highlight-info">Core Member</span>)[世说新渔]</li>
-    <li><i>2022.11</i>: <a href="https://jyt.ah.gov.cn/tsdw/gdjyc/tzgg/40616612.html">Anhui College Students Internet+Innovation and Entrepreneurship Competition</a> (<span class="highlight-info">Provincial Third Prize</span>, <span class="highlight-info">Core Member</span>)[灵犀]</li>
-    <li><i>2022.11</i>: <a href="https://edu.sc.gov.cn/scedu/cjhfwjk/2023/12/27/85907c561d6a451e86e38dfcdb323f4f.shtml">Sichuan International College Student Innovation Competition</a> (<span class="highlight-info">Provincial Second Prize</span>, <span class="highlight-info">Project Leader</span>)[掌上明'猪']</li>
-    <li><i>2022.11</i>: <a href="https://edu.sc.gov.cn/scedu/cjhfwjk/2023/12/27/85907c561d6a451e86e38dfcdb323f4f.shtml">Sichuan International College Student Innovation Competition</a> (<span class="highlight-info">Provincial First Prize</span>, <span class="highlight-info">Core Member</span>)[育鸭有道]</li>
-    <li><i>2022.11</i>: <a href="https://www.mcm.edu.cn/">National College Student Mathematical Modeling Competition</a> (<span class="highlight-info">Provincial First Prize</span>, <span class="highlight-info">Team Leader</span>)</li>
-    <li><i>2022.06</i>: <a href="https://www.tiaozhanbei.net/">Challenge Cup Sichuan Province College Student Entrepreneurship Plan Competition</a> (<span class="highlight-info">Provincial Second Prize</span>, <span class="highlight-info">Core Member</span>)[慧眼识鱼]</li>
-    <li><i>2021.12</i>: <a href="https://edu.sc.gov.cn/scedu/cjhfwjk/2023/12/27/85907c561d6a451e86e38dfcdb323f4f.shtml">Sichuan International College Student Innovation Competition</a> (<span class="highlight-info">Provincial Second Prize</span>, <span class="highlight-info">Project Leader</span>)[慧眼识鱼]</li>
-    <li><i>2021.07</i>: <a href="https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AF%BE%E5%A4%96%E5%AD%A6%E6%9C%AF%E7%A7%91%E6%8A%80%E4%BD%9C%E5%93%81%E7%AB%9E%E8%B5%9B/657246740">Challenge Cup Sichuan Province College Students' Extracurricular Academic and Technological Works Competition</a> (<span class="highlight-info">Provincial Second Prize</span>, <span class="highlight-info">Core Member</span>)[慧眼识鱼]</li>
-	</ul>
-</div>
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
-
-
-
-
-<span class='anchor' id='funding'></span>
-# 💰 Funding
-
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
-	<ul>
-    <li><strong>2024.10</strong> Open Project of State Key Laboratory of General Artificial Intelligence (<span class="highlight-info">Core Member, CNY 200,000.00</span>).</li>
-		<li><strong>2022.09</strong> National Undergraduate Innovation and Entrepreneurship Training Program of China (<span class="highlight-info">Project Leader, CNY 10,000.00</span>).</li>
-	</ul>
-</div>
-<!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>  -->
-
-
-
-
-
-
-<span class='anchor' id='peer-review'></span>
 # 📰 Peer Review
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
@@ -954,11 +803,7 @@ html[data-theme="dark"] .edu-img img,
 <!-- # 🎈 Participating Activities  -->
 
 
----
 
-If you want to learn more about my past, you can refer to the following **WeChat posts**:
-
-[![tong](https://img.shields.io/badge/四川农业大学-BDAS实验室-purple?logo=wechat)](https://mp.weixin.qq.com/s/k-sSMWwTlVIx8O_DDMsDYg) [![tong](https://img.shields.io/badge/四川农业大学-学生年度人物-purple?logo=wechat)](https://mp.weixin.qq.com/s/ioNpnR2P3y4-3a1n_9uFtg) [![tong](https://img.shields.io/badge/微观川农-青年五四标兵-brightgreen?logo=wechat)](https://mp.weixin.qq.com/s/trqIt2cA1H8VQ7uYV6zDmA) [![tong](https://img.shields.io/badge/微观川农-创新创业典型-brightgreen?logo=wechat)](https://mp.weixin.qq.com/s/C7FXlAawwuPaA81mYozM0Q) [![tong](https://img.shields.io/badge/四川农业大学信息工程学院-数学建模国赛国一-red?logo=wechat)](https://mp.weixin.qq.com/s/Cq56JLR8370a7yp1YExsqQ) [![tong](https://img.shields.io/badge/四川农业大学理学院-推免推文-blue?logo=wechat)](https://mp.weixin.qq.com/s/_sFVEG6V5D_y_xoN0cUHQw) [![tong](https://img.shields.io/badge/中国大学生网-推免推文-orange?logo=wechat)](https://mp.weixin.qq.com/s/5bR7ilD4C7lCF2HiIcBMnA) [![tong](https://img.shields.io/badge/生之韵律-推免推文-inactive?logo=wechat)](https://mp.weixin.qq.com/s/O0TdhbqKT6HJraDKFXNmjA) [![tong](https://img.shields.io/badge/北京通用人工智能研究院-通智少年-green?logo=wechat)](https://mp.weixin.qq.com/s/B4eL3sG3TI63i3imeKdw1w) [![tong](https://img.shields.io/badge/通智天下-通智少年-yellow?logo=wechat)](https://mp.weixin.qq.com/s/vOuX9rQzjxzjv7ASeMlGnw)
 
 <br><br>
 
