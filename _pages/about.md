@@ -23,17 +23,6 @@ I am an upcoming joint **PhD student** at **the State Key Laboratory of General 
 
 
 
-<!-- My huggingface at 🤗 [Huggingface home](https://huggingface.co/kailinjiang). -->
-
-
-<div style="text-align: center;">
-  <img 
-    src="https://raw.githubusercontent.com/kailinjiang/kailinjiang/output/github-contribution-grid-snake.svg" 
-    alt="github-contribution-grid-snake"
-  >
-</div>
-
-
 # 🔥 News
 
 
