@@ -428,37 +428,6 @@ As these works are patented in China, all these names are directly translated fr
 
 
 <span class='anchor' id='honors'></span>
-# 🏅 Honors
-
-<style>
-.highlight-info { color: #8B0000; font-weight: bold; }
-</style>
-
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
-	<ul>
-		<li><strong>2022.12</strong> Typical Innovation and Entrepreneurship Models of SICAU (<span class="highlight-info">10 school-wide slots available, CNY 1,000.00</span>).</li>
-		<li><strong>2022.11</strong> China Telecom Scholarship · Fly Young Award. (<span class="highlight-info">CNY 5,000.00</span>)</li>
-		<li><strong>2022.04</strong> Youth May Fourth Model of SICAU (<span class="highlight-info">10 school-wide slots available</span>).</li>
-    <li><strong>2022.04</strong> The Star of Science and Technology Innovation at SICAU (<span class="highlight-info">10 school-wide slots available, CNY 1,000.00</span>).</li>
-    <li><strong>2021.12</strong> A-level Certificate of Comprehensive Quality for College Students in Sichuan Province.</li>
-
-	</ul>
-</div>
-<!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>  -->
-
-
-<span class='anchor' id='competitions'></span>
-
-# 📰 Peer Review
-
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
-	<ul>
-		<li><strong>2026.01</strong> ICML 2026 Reviewer</li>
-		<li><strong>2025.09</strong> ICLR 2026 Reviewer</li>
-		<li><strong>2025.02</strong> ICLR 2025 Workshop SSI-FM Reviewer</li>
-	</ul>
-</div>
-<!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div> -->
 
 
 
