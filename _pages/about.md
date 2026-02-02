@@ -9,131 +9,40 @@ redirect_from:
 ---
 
 
-# 😊 About me
+# 👋 About Me
 
-I am an upcoming joint **PhD student** at **the State Key Laboratory of General Artificial Intelligence** <a href='https://www.bigai.ai/'>(BIGAI)</a> and **the University of Science and Technology of China** (USTC), supervised by <a href='https://liqing.io/'>Qing Li(BIGAI, 李庆)</a> and <a href='http://staff.ustc.edu.cn/~binli/'>Bin Li (USTC, 李斌)</a>, <a href='https://faculty.ustc.edu.cn/liulei13/zh_CN/index.htm'>Lei Liu (USTC, 刘磊)</a>. Currently, I am doing my internship in State Key Laboratory of General Artificial Intelligence and working on knowledge editing/injection, multimodal continual learning, VLM evaluation. <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKailinJiang%2Fkailinjiang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKailinJiang%2Fkailinjiang@google-scholar-stats%2Ftotal-stars.json%3FcacheBuster%3D1">  [![GitHub followers](https://img.shields.io/github/followers/kailinjiang)](https://github.com/kailinjiang)
+I am **Baochen Fu**, a PhD student jointly trained by the School of Software and the School of Mechanical Engineering at Shandong University, under the supervision of Professors **Yi Wan** and **Weiye Song**. My research focuses on **computer vision** and **large multimodal models**, with particular attention to knowledge updating and domain adaptation in multimodal large models.
 
-
-<!-- I am currently working on knowledge editing, knowledge injection, multimodal learning, continual learning, <a href='https://scholar.google.com/citations?user=NSHQsrAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKailinJiang%2Fkailinjiang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">  -->
-
-
-
-
-
+I am currently seeking internship and research collaboration opportunities. If you're interested, feel free to contact me via email at fbc@mail.sdu.edu.cn.
 
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">Neurocomputing</span>!
+- *2025.09*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">TCSVT</span>!
 
+# 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">aixiv</div><img src='images/motivition.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<style>
-/* News section scroll window styles (scoped) */
-.news .scroll-window { max-height: 640px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: #fff; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
-.news .scroll-window::-webkit-scrollbar { width: 8px; }
-.news .scroll-window::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
-</style>
+<h3 style="color: blue;">MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge</h3>
 
-
-
-<div class="news" markdown="1">
-<div class="scroll-window" markdown="1">
-- **2026.01**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">ICLR 2026</strong>! <a href='https://arxiv.org/abs/2505.24449'>Evolving Knowledge Injection</a>!
-- **2026.01**: &nbsp;📣📣 I will serve as **Reviewer** in ICML 2026!
-- **2025.11**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">AAAI 2026 as Oral Presentation</strong>! <a href='https://arxiv.org/pdf/2505.19509'>Multimodal Knowledge Conflict</a>!
-- **2025.09**: &nbsp;📣📣 I will serve as **Reviewer** in ICLR 2026!
-- **2025.03**: &nbsp;🎉🎉 One paper have been accepted by **ICLR 2025 Workshop SSI-FM**! <a href='https://mmke-bench-iclr.github.io/'>Multimodal Knowledge Editing</a>!
-- **2025.02**: &nbsp;📣📣 I will serve as **Reviewer** in ICLR 2025 Workshop SSI-FM!
-- **2025.01**: &nbsp;🎉🎉 Two paper have been accepted by <strong style="color: #990000;">ICLR 2025</strong>! <a href='https://arxiv.org/pdf/2406.11194'>In Context Editing</a> and <a href='https://mmke-bench-iclr.github.io/'>Multimodal Knowledge Editing</a>!
-- **2024.09**: &nbsp;📣📣 I joined the **IIP Lab** at the University of Science and Technology of China to pursue a doctoral degree!
-- **2024.06**: &nbsp;🎉🎉 I successfully completed my undergraduate studies from the College of Science of Sichuan Agricultural University!
-- **2024.02**: &nbsp;📣📣 I will go to the State Key Laboratory of General Artificial Intelligence <a href='https://www.bigai.ai/'>(BIGAI)</a> to start my internship!
-
+**Baochen Fu***, Yuntao Du*, Cheng Chang, Baihao Jin, Wenzhi Deng, Muhao Xu, Hongmei Yan, Weiye Song, Yi Wan
 </div>
 </div>
 
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div> 
-
-<script>
-(function() {
-  function setNewsScrollWindowHeight() {
-    var container = document.querySelector('.news .scroll-window');
-    if (!container) return;
-    var firstLi = container.querySelector('li');
-    if (!firstLi) return; // fallback to CSS default max-height
-    var liRect = firstLi.getBoundingClientRect();
-    var liStyle = window.getComputedStyle(firstLi);
-    var marginTop = parseFloat(liStyle.marginTop) || 0;
-    var marginBottom = parseFloat(liStyle.marginBottom) || 0;
-    var perItem = liRect.height + (marginTop + marginBottom);
-    var target = perItem * 9; // show ~9 items
-    container.style.maxHeight = target + 'px';
-  }
-  function onReady(fn) {
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', fn, { once: true });
-    } else { fn(); }
-  }
-  onReady(setNewsScrollWindowHeight);
-  var resizeTimeout;
-  window.addEventListener('resize', function() {
-    clearTimeout(resizeTimeout);
-    resizeTimeout = setTimeout(setNewsScrollWindowHeight, 150);
-  });
-})();
-</script>
-
+# 🏅 Honors and Awards
+- *2025.10* Academic Scholarship, Shandong University
+- *2024.10* Academic Scholarship, Shandong University
+- *2023.10* Kehui Scholarship, Kehui Scholarship
 
 
 
 # 📝 Publications
 *: Co-First Author, Equal Contribution
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="display: flex; align-items: center;">
-    <img src="./images/conference/ICLR.png" alt="ICLR" style="width: 150px; height: 45px;">
-    <span style="margin-left: 10px; font-size: 20px; font-weight: bold; color: #8B4513;">×3</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./images/conference/AAAI.png" alt="AAAI" style="width: 150px; height: 45px;">
-    <span style="margin-left: 10px; font-size: 20px; font-weight: bold; color: #8B4513;">×1</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./images/conference/blank.png" alt="ICLR" style="width: 150px; height: 45px;">
-    <span style="margin-left: 10px; font-size: 20px; font-weight: bold; color: #8B4513;"></span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./images/conference/blank.png" alt="ICLR" style="width: 150px; height: 45px;">
-    <span style="margin-left: 10px; font-size: 20px; font-weight: bold; color: #8B4513;"></span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./images/conference/blank.png" alt="ICLR" style="width: 150px; height: 45px;">
-    <span style="margin-left: 10px; font-size: 20px; font-weight: bold; color: #8B4513;"></span>
-  </div>
-</div>
 
-
-<span class='anchor' id='conference-papers'></span>
-<h2 style="display: flex; align-items: center; justify-content: flex-start; border-left: 4px solid #4285F4; padding-left: 12px; margin-left: -16px; color: #333; flex-wrap: wrap; gap: 12px;">
-  <span style="display: flex; align-items: center;">
-    <span>Conference papers</span>
-    <span style="color: #8B4513; font-weight: bold; margin-left: 0.6em;">{{ site.data.conference.main.size }}</span>
-  </span>
-  <span style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #666; font-weight: normal; margin-left: 1.25em;">
-    <span style="white-space: nowrap;">If you find our work interesting, please help us by</span>
-    <span style="display: inline-flex; align-items: center; color: #FFA500;">
-      <span style="font-size: 16px;">🤗</span>
-      <span style="margin-left: 2px;">Upvoting</span>
-    </span>
-    <span>and</span>
-    <span style="display: inline-flex; align-items: center; color: #24292e;">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 4px;">
-        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 6.27c1.02 0 2.04.138 3 .404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
-      </svg>
-      <span>Starring!</span>
-    </span>
-  </span>
-</h2>
 
 <!-- ## Conference papers -->
 
