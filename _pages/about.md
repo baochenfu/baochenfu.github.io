@@ -507,7 +507,7 @@ html[data-theme="dark"] .exp-img img,
   <li class="exp-item">
     <div class="exp-text">
       <p class="exp-title">Algorithm Intern</p>
-      <p class="exp-sub">State Key Laboratory of General Artificial Intelligence (BIGAI, Beijing, China)</p>
+      <p class="exp-sub">China Mobile Communications Group Co.,Ltd ( Beijing, China)</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
         <li><strong>Affliation: Digital Intelligence Department</strong></li>
         <li><strong>Advisor: Jian Sun</strong></li>
