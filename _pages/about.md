@@ -506,27 +506,15 @@ html[data-theme="dark"] .exp-img img,
 
   <li class="exp-item">
     <div class="exp-text">
-      <p class="exp-title">Intern Researcher</p>
-      <p class="exp-sub">State Key Laboratory of General Artificial Intelligence (BIGAI, Beijing, China)</p>
-      <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
-        <li><strong>Affliation: ML Lab</strong></li>
-        <li><strong>Advisor: Qing Li</strong></li>
-      </ul>
-      <p class="exp-time">2024.08 - now</p>
-    </div>
-    <div class="exp-img"><img src="images\tong.png" alt="BIGAI"></div>
-  </li>
-  <li class="exp-item">
-    <div class="exp-text">
       <p class="exp-title">Algorithm Intern</p>
       <p class="exp-sub">State Key Laboratory of General Artificial Intelligence (BIGAI, Beijing, China)</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
-        <li><strong>Affliation: MAS Lab</strong></li>
-        <li><strong>Advisor: Siyuan Qi</strong></li>
+        <li><strong>Affliation: Digital Intelligence Department</strong></li>
+        <li><strong>Advisor: Jian Sun</strong></li>
       </ul>
-      <p class="exp-time">2024.02 - 2024.08</p>
+      <p class="exp-time">2025.07 - 2025.09</p>
     </div>
-    <div class="exp-img"><img src="images\tong.png" alt="BIGAI"></div>
+    <div class="exp-img"><img src="images\Mobile.png" alt="China Mobile"></div>
   </li>
 
 
@@ -641,29 +629,41 @@ html[data-theme="dark"] .edu-img img,
 <ul class="edu-list">
   <li class="edu-item">
     <div class="edu-text">
-      <p class="edu-title">Doctor of Philosophy (Ph.D)</p>
-      <p class="edu-sub">University of Science and Technology of China (USTC)</p>
+      <p class="edu-title">Doctor of Engineering (Ph.D)</p>
+      <p class="edu-sub">Shandong University (SDU)</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
-        <li>Key universities under the <strong>"985 Project"</strong></li>
-        <li><strong>Advisor: Bin Li</strong></li>
-        <li>Major: Information and Communication Engineering</li>
+        <li>School of Software</li>
+        <li>Major: Artificial Intelligence </li>
+		<li><strong>Advisor: Yi Wan</strong></li>
       </ul>
       <p class="edu-time">2024.09 - now</p>
     </div>
-    <div class="edu-img"><img src="images\ustc.png" alt="USTC"></div>
+    <div class="edu-img"><img src="images\SDU.png" alt="SDU"></div>
   </li>
+	<li class="edu-item">
+	    <div class="edu-text">
+	      <p class="edu-title">Master of Engineering </p>
+	      <p class="edu-sub">Shandong University (SDU)</p>
+	      <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
+			<li>School of Control Science and Engineering</li>
+	        <li><strong>Major: Electronic Information </strong></li>
+			<li><strong>Advisor: Xu Qiao</strong></li>
+	      </ul>
+	      <p class="edu-time">2021.09 - 2024.06</p>
+	    </div>
+	    <div class="edu-img"><img src="images\SDU.png" alt="SDU"></div>
   <li class="edu-item">
     <div class="edu-text">
       <p class="edu-title">Undergraduate</p>
-      <p class="edu-sub">Sichuan Agricultural University (SICAU)</p>
+      <p class="edu-sub">Shandong Jianzhu University (SDJZU)</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
-        <li>Key universities under the <strong>"211 Project"</strong></li>
-        <li><strong>Major: Information and Computational Science, Rank: 4/152 (2.6%)</strong></li>
-        <li>Finished my undergraduate in, SICAU, while the degree is offered by college of science in SICAU.</li>
+		<li>School of Information and Electrical Engineering</li>
+        <li>Major: Electrical Engineering and Automation </li>
+		<li><strong>Advisor: Ming Wang</strong></li>
       </ul>
-      <p class="edu-time">2020.09 - 2024.06</p>
+      <p class="edu-time">2017.09 - 2021.06</p>
     </div>
-    <div class="edu-img"><img src="images\sicau.png" alt="SICAU"></div>
+    <div class="edu-img"><img src="images\SDJZU.png" alt="SDJZU"></div>
   </li>
 </ul>
 </div>
