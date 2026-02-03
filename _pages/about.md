@@ -629,7 +629,7 @@ html[data-theme="dark"] .edu-img img,
 <ul class="edu-list">
   <li class="edu-item">
     <div class="edu-text">
-      <p class="edu-title">Doctor of Engineering (Ph.D)</p>
+      <p class="edu-title">Doctoral student (Ph.D)</p>
       <p class="edu-sub">Shandong University (SDU)</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
         <li>School of Software</li>
@@ -642,7 +642,7 @@ html[data-theme="dark"] .edu-img img,
   </li>
 	<li class="edu-item">
 	    <div class="edu-text">
-	      <p class="edu-title">Master of Engineering </p>
+	      <p class="edu-title">Master </p>
 	      <p class="edu-sub">Shandong University (SDU)</p>
 	      <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
 			<li>School of Control Science and Engineering</li>
