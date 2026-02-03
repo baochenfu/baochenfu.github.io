@@ -146,7 +146,7 @@ I am currently seeking internship and research collaboration opportunities. If y
     {% endif %}
   </div>
   <div class="col-sm-9 pub-content" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.arxiv | default: '/404.html' }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.arxiv | default: '' }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em class="conference-name">{{ link.conference }}</em>
       </div>
