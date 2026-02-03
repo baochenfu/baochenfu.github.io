@@ -11,9 +11,9 @@ redirect_from:
 
 # 👋 About Me
 
-I am **Baochen Fu**, a PhD student jointly trained by the School of Software and the School of Mechanical Engineering at Shandong University, under the supervision of Professors **Yi Wan** and **Weiye Song**. My research focuses on **computer vision** and **large multimodal models**, with particular attention to knowledge updating and domain adaptation in multimodal large models.
+I am **Baochen Fu**, a PhD student jointly trained by the School of Software and the School of Mechanical Engineering at Shandong University, under the supervision of Professors **Yi Wan** and **Weiye Song**. My research focuses on **Computer Vision** and **Large Multimodal Models**, with particular attention to knowledge updating and domain adaptation in multimodal large models.
 
-I am currently seeking **internship** and **research collaboration** opportunities. If you're interested, feel free to contact me via email at fbc@mail.sdu.edu.cn.
+I am currently seeking **internship** and **research collaboration** opportunities. If you're interested, feel free to contact me via email at <span style="color: blue;">**fbc@mail.sdu.edu.cn**</span>.
 
 
 
