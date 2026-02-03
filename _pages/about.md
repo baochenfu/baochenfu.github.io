@@ -434,11 +434,11 @@ As these works are patented in China, all these names are directly translated fr
 
 
 # 🏅 Honors and Awards
-- *2025.10* Academic Scholarship, Shandong University
-- *2024.10* Academic Scholarship, Shandong University
-- *2023.10* Kehui Scholarship, Shandong University
-- *2022.10* Academic Scholarship, Shandong University
-- *2021.05* Outstanding Graduate, Shandong Jianzhu University
+- **2025.10** Academic Scholarship, Shandong University
+- **2024.10** Academic Scholarship, Shandong University
+- **2023.10** Kehui Scholarship, Shandong University
+- **2022.10** Academic Scholarship, Shandong University
+- **2021.05** Outstanding Graduate, Shandong Jianzhu University
 
 <!-- # 💻 Internships
 - **2024.08 - now**, <img src='./images/internship/bigai.png' style='width: 6em;'> the State Key Laboratory of General Artificial Intelligence(Beijing,China), **ML Lab**, Intern Researcher.
