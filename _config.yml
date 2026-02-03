@@ -37,8 +37,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
-  huggingface      : 
+  github           : "https://github.com/baochenfu"
+  huggingface      : "https://huggingface.co/baochenfu"
   google_plus      :
   keybase          :
   instagram        :
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0000-0026-9091"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
