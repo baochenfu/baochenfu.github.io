@@ -634,7 +634,7 @@ html[data-theme="dark"] .edu-img img,
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
         <li>School of Software</li>
         <li>Major: Artificial Intelligence </li>
-		<li><strong>Advisor: Yi Wan</strong></li>
+		<li>Advisor: Yi Wan</li>
       </ul>
       <p class="edu-time">2024.09 - now</p>
     </div>
@@ -646,8 +646,8 @@ html[data-theme="dark"] .edu-img img,
 	      <p class="edu-sub">Shandong University (SDU)</p>
 	      <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
 			<li>School of Control Science and Engineering</li>
-	        <li><strong>Major: Electronic Information </strong></li>
-			<li><strong>Advisor: Xu Qiao</strong></li>
+	        <li>Major: Electronic Information </li>
+			<li>Advisor: Xu Qiao</li>
 	      </ul>
 	      <p class="edu-time">2021.09 - 2024.06</p>
 	    </div>
@@ -659,7 +659,7 @@ html[data-theme="dark"] .edu-img img,
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
 		<li>School of Information and Electrical Engineering</li>
         <li>Major: Electrical Engineering and Automation </li>
-		<li><strong>Advisor: Ming Wang</strong></li>
+		<li>Advisor: Ming Wang</li>
       </ul>
       <p class="edu-time">2017.09 - 2021.06</p>
     </div>
