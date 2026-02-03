@@ -665,9 +665,8 @@ html[data-theme="dark"] .edu-img img,
     </div>
     <div class="edu-img"><img src="images\SDJZU.png" alt="SDJZU"></div>
   </li>
-</ul>
-</div>
-</div>
+<div class="educations" style="margin-bottom: 20px;">
+
 
 
 
