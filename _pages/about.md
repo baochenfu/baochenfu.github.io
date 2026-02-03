@@ -352,7 +352,7 @@ h2 {
       </div>
     <div class="links">
       {% if link.arxiv %}
-        <a href="{{ link.arxiv | default: '/404.html' }}" class="pub-button arxiv" role="button" target="_blank">ArXiv</a>
+        <a href="{{ link.arxiv | default: '' }}" class="pub-button arxiv" role="button" target="_blank">ArXiv</a>
       {% endif %}
       {% if link.huggingface_paper %}
         <a href="{{ link.huggingface_paper | default: '/404.html' }}" class="pub-button huggingface-paper" role="button" target="_blank">HuggingFace Paper</a>
