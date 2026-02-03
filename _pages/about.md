@@ -590,7 +590,7 @@ html[data-theme="dark"] .exp-img img,
 
 <style>
 /* Educations section scroll window styles (scoped) */
-.educations .scroll-window { max-height: 640px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: transparent; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
+.educations .scroll-window { max-height: 700px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: transparent; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
 .educations .scroll-window::-webkit-scrollbar { width: 8px; }
 .educations .scroll-window::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
 </style>
