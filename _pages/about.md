@@ -22,14 +22,6 @@ I am currently seeking internship and research collaboration opportunities. If y
 - *2025.09*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">TCSVT</span>!
 
 
-
-# 🏅 Honors and Awards
-- *2025.10* Academic Scholarship, Shandong University
-- *2024.10* Academic Scholarship, Shandong University
-- *2023.10* Kehui Scholarship, Kehui Scholarship
-
-
-
 # 📝 Publications
 *: Co-First Author, Equal Contribution
 
@@ -420,7 +412,11 @@ As these works are patented in China, all these names are directly translated fr
 <span class='anchor' id='honors'></span>
 
 
-
+# 🏅 Honors and Awards
+- *2025.10* Academic Scholarship, Shandong University
+- *2024.10* Academic Scholarship, Shandong University
+- *2023.10* Kehui Scholarship, Shandong University
+- *2022.10* Academic Scholarship, Shandong University
 
 
 <!-- # 💻 Internships
