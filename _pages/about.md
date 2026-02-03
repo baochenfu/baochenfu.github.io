@@ -21,16 +21,7 @@ I am currently seeking internship and research collaboration opportunities. If y
 - *2025.12*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">Neurocomputing</span>!
 - *2025.09*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">TCSVT</span>!
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">aixiv</div><img src='images/motivition.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<h3 style="color: blue;">MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge</h3>
-
-**Baochen Fu***, Yuntao Du*, Cheng Chang, Baihao Jin, Wenzhi Deng, Muhao Xu, Hongmei Yan, Weiye Song, Yi Wan
-</div>
-</div>
 
 # 🏅 Honors and Awards
 - *2025.10* Academic Scholarship, Shandong University
@@ -41,7 +32,6 @@ I am currently seeking internship and research collaboration opportunities. If y
 
 # 📝 Publications
 *: Co-First Author, Equal Contribution
-
 
 
 <!-- ## Conference papers -->
@@ -671,31 +661,3 @@ html[data-theme="dark"] .edu-img img,
 
 
 
-
-<br><br>
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map Widget</title>
-    <style>
-        .map-container {
-            width: 300px; 
-            margin: 0 auto; 
-            text-align: center; 
-        }
-        .map-container iframe {
-            width: 100%; 
-            height: 300px; 
-        }
-    </style>
-</head>
-<body>
-    <div class="map-container">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=je5F_lWiCT9d_1nlJrSDAQ7oBIhafAq9Er1Q9DPpYXg&cl=ffffff&w=a"></script>
-    </div>
-</body>
-</html>
-
-<br><br>
