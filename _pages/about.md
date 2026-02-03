@@ -355,13 +355,13 @@ h2 {
         <a href="{{ link.arxiv | default: '' }}" class="pub-button arxiv" role="button" target="_blank">ArXiv</a>
       {% endif %}
       {% if link.huggingface_paper %}
-        <a href="{{ link.huggingface_paper | default: '/404.html' }}" class="pub-button huggingface-paper" role="button" target="_blank">HuggingFace Paper</a>
+        <a href="{{ link.huggingface_paper | default: '' }}" class="pub-button huggingface-paper" role="button" target="_blank">HuggingFace Paper</a>
       {% endif %}
       {% if link.code %}
-        <a href="{{ link.code | default: '/404.html' }}" class="pub-button code" role="button" target="_blank">Code</a>
+        <a href="{{ link.code | default: '' }}" class="pub-button code" role="button" target="_blank">Code</a>
       {% endif %}
       {% if link.website %}
-        <a href="{{ link.website | default: '/404.html' }}" class="pub-button website" role="button" target="_blank">Website</a>
+        <a href="{{ link.website | default: '' }}" class="pub-button website" role="button" target="_blank">Website</a>
       {% endif %}
       {% if link.github_folks %} 
       <a target="_blank" href ="https://github.com/{{ link.github_stars }}"><img alt="GitHub forks" align="right" src="https://img.shields.io/github/forks/{{ link.github_folks }}?style=social"></a>
@@ -434,11 +434,11 @@ As these works are patented in China, all these names are directly translated fr
 
 
 # 🏅 Honors and Awards
-- **2025.10** Academic Scholarship, Shandong University
-- **2024.10** Academic Scholarship, Shandong University
-- **2023.10** Kehui Scholarship, Shandong University
-- **2022.10** Academic Scholarship, Shandong University
-- **2021.05** Outstanding Graduate, Shandong Jianzhu University
+- **2025.10**  Academic Scholarship, Shandong University
+- **2024.10**  Academic Scholarship, Shandong University
+- **2023.10**  Kehui Scholarship, Shandong University
+- **2022.10**  Academic Scholarship, Shandong University
+- **2021.05**  Outstanding Graduate, Shandong Jianzhu University
 
 <!-- # 💻 Internships
 - **2024.08 - now**, <img src='./images/internship/bigai.png' style='width: 6em;'> the State Key Laboratory of General Artificial Intelligence(Beijing,China), **ML Lab**, Intern Researcher.
@@ -647,7 +647,7 @@ html[data-theme="dark"] .edu-img img,
 	      <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
 			<li>School of Control Science and Engineering</li>
 	        <li><strong> Major: Electronic Information </strong></li>
-			<li>Advisor: Xu Qiao</li>
+			<li><strong> Advisor: Xu Qia </strong></li>
 	      </ul>
 	      <p class="edu-time">2021.09 - 2024.06</p>
 	    </div>
