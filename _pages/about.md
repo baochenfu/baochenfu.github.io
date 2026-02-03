@@ -647,7 +647,7 @@ html[data-theme="dark"] .edu-img img,
 	      <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
 			<li>School of Control Science and Engineering</li>
 	        <li><strong> Major: Electronic Information </strong></li>
-			<li><strong> Advisor: Xu Qia </strong></li>
+			<li><strong> Advisor: Xu Qiao </strong></li>
 	      </ul>
 	      <p class="edu-time">2021.09 - 2024.06</p>
 	    </div>
