@@ -25,7 +25,7 @@ I am currently seeking internship and research collaboration opportunities. If y
 # 📝 Publications
 *: Co-First Author, Equal Contribution
 
-<span class='anchor' id='preprints'></span>
+<span class='anchor' id='published'></span>
 <h2 style="display: flex; align-items: center; justify-content: flex-start; border-left: 4px solid #4285F4; padding-left: 12px; margin-left: -16px; color: #333; flex-wrap: wrap; gap: 12px;">
   <span style="display: flex; align-items: center;">
     <span>Preprints</span>
