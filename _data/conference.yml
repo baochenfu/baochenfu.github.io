@@ -4,7 +4,7 @@ main:
     conference_short: Neurocomputing
     conference: Neurocomputing
     image: "images/paper_overview/Neurocomputing.png"
-    arxiv: "https://www.sciencedirect.com/science/article/abs/pii/S0925231225031728"
+    website: "https://www.sciencedirect.com/science/article/abs/pii/S0925231225031728"
     # huggingface_paper: "https://huggingface.co/papers/2505.24449"
     # code: "https://github.com/EVOKE-LMM/EVOKE"
     # website: "https://evoke-lmm.github.io/"
@@ -14,10 +14,11 @@ main:
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology
     image: "images/paper_overview/TCSVT.png"
-    arxiv: "https://ieeexplore.ieee.org/abstract/document/11175415"
+    website: "https://ieeexplore.ieee.org/abstract/document/11175415"
     # huggingface_paper: "https://huggingface.co/papers/2505.19509"
     # code: "https://github.com/MLLMKCBENCH/MLLMKC"
     # website: "https://mllmkcbench.github.io/"
+
 
 
 
