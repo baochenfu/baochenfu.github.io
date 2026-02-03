@@ -400,10 +400,10 @@ As these works are patented in China, all these names are directly translated fr
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
-		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E4%B8%80%E7%A7%8D%E5%A4%9A%E6%A8%A1%E6%80%81%E8%BF%9B%E5%8C%96%E7%9F%A5%E8%AF%86%E6%B3%A8%E5%85%A5%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F" target="_blank">A multimodal evolving knowledge injection method and system</a></strong> (Public, 2025-07-01)<br>
-		   Inventor: <strong><u>Kailin Jiang</u></strong>, Yukai Ding, Zhi Gao, Zilong Zheng, Qing Li</li>
-		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E4%B8%80%E7%A7%8D%E6%9C%89%E6%95%88%E7%9A%84%E6%B5%B7%E6%B4%8B%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9%E5%A3%B0%E9%9F%B3%E8%87%AA%E5%8A%A8%E6%A3%80%E6%B5%8B%E5%92%8C%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95" target="_blank">An effective method for automatic detection and classification of sounds in marine mammals</a></strong> (Granted, 2023-04-07)<br>
-		   Inventor: Danyang Li, Jun Li, <strong><u>Kailin Jiang</u></strong>, Xingze Zheng, Jiao Li, Yang Ming, Lincheng Li, Tianyu Xie</li>
+		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E4%B8%80%E7%A7%8D%E6%9C%89%E6%95%88%E7%9A%84%E6%B5%B7%E6%B4%8B%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9%E5%A3%B0%E9%9F%B3%E8%87%AA%E5%8A%A8%E6%A3%80%E6%B5%8B%E5%92%8C%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95" target="_blank">Dynamic search enhancement generation method and system based on attention attribution</a></strong> (Granted, 2026-01-07)<br>
+		   Inventor: Weiye Song, <strong><u>Baochen Fu</u></strong>, Yi Wan, Muhao Xu, Zijian Li, Yuan Cui</li>
+		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E4%B8%80%E7%A7%8D%E5%A4%9A%E6%A8%A1%E6%80%81%E8%BF%9B%E5%8C%96%E7%9F%A5%E8%AF%86%E6%B3%A8%E5%85%A5%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F" target="_blank">Multi-scale video prediction methods, systems, media, products and equipment</a></strong> (Public, 2025-05-13)<br>
+		   Inventor: Weiye Song, <strong><u>Baochen Fu</u></strong>, Yi Wan, Muhao Xu, Dongyu Liu</li>	
 	</ul>
 </div>
 <!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>  -->
