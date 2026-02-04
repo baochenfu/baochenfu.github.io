@@ -29,7 +29,7 @@ I am currently seeking **internship** and **research collaboration** opportuniti
 <span class='anchor' id='published'></span>
 <h2 style="display: flex; align-items: center; justify-content: flex-start; border-left: 4px solid #4285F4; padding-left: 12px; margin-left: -16px; color: #333; flex-wrap: wrap; gap: 12px;">
   <span style="display: flex; align-items: center;">
-    <span>Preprints</span>
+    <span>Published</span>
     <span style="color: #8B4513; font-weight: bold; margin-left: 0.6em;">{{ site.data.preprint.main.size }}</span>
   </span>
   <span style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #666; font-weight: normal; margin-left: 1.25em;">
