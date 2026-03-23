@@ -5,6 +5,7 @@ main:
     conference: Preprint
     image: "images/paper_overview/MMKU-Bench.png"
     code: "https://github.com/baochenfu/MMKU-Bench"
+    arxiv: "https://arxiv.org/pdf/2603.15117"
 
   - title: "DARAG: Dynamic Attention-based Retrieval Augmented Generation"
     authors: "<strong>Baochen Fu*</strong>, Zijian Li, Muhao Xu, Hua Wei, Weiye Song, Yi Wan.【2025.8】"
