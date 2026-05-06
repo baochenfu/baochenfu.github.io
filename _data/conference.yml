@@ -1,4 +1,12 @@
 main:
+  - title: "MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge"
+    authors: "<strong>Baochen Fu*</strong>, Yuntao Du*, Cheng Chang, Baihao Jin, Wenzhi Deng, Muhao Xu, Hongmei Yan, Weiye Song, Yi Wan.【2026.1】"
+    conference_short: ICML
+    conference: Forty-Third International Conference on Machine Learning
+    image: "images/paper_overview/MMKU-Bench.png"
+    arxiv: "https://arxiv.org/pdf/2603.15117"
+    code: "https://github.com/baochenfu/MMKU-Bench"
+
   - title: "A progressive scale difference learning network for video prediction"
     authors: "<strong>Baochen Fu*</strong>, Muhao Xu, Yun Wang, Changyu Wu, Hongmei Yan, Wei Yi, Hua Wei, Lizhen Cui, Weiye Song, Yi Wan.【2025.12】"
     conference_short: Neurocomputing
