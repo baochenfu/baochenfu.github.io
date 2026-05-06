@@ -1,7 +1,7 @@
 main:
   - title: "MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge"
     authors: "<strong>Baochen Fu*</strong>, Yuntao Du*, Cheng Chang, Baihao Jin, Wenzhi Deng, Muhao Xu, Hongmei Yan, Weiye Song, Yi Wan.【2026.1】"
-    conference_short: ICML
+    conference_short: ICML 2026
     conference: Forty-Third International Conference on Machine Learning
     image: "images/paper_overview/MMKU-Bench.png"
     arxiv: "https://arxiv.org/pdf/2603.15117"
