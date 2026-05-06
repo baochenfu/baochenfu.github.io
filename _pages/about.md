@@ -19,6 +19,7 @@ I am currently seeking **internship** and **research collaboration** opportuniti
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">ICML 2026</span>!
 - *2025.12*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">Neurocomputing</span>!
 - *2025.09*: &nbsp;🎉🎉 One paper have been accepted by <span style="color:red;">TCSVT</span>!
 
