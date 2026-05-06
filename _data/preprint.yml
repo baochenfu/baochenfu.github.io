@@ -1,12 +1,4 @@
 main:
-  - title: "MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge"
-    authors: "<strong>Baochen Fu*</strong>, Yuntao Du*, Cheng Chang, Baihao Jin, Wenzhi Deng, Muhao Xu, Hongmei Yan, Weiye Song, Yi Wan.【2026.1】"
-    conference_short: Preprint
-    conference: Preprint
-    image: "images/paper_overview/MMKU-Bench.png"
-    arxiv: "https://arxiv.org/pdf/2603.15117"
-    code: "https://github.com/baochenfu/MMKU-Bench"
-
 
   - title: "DARAG: Dynamic Attention-based Retrieval Augmented Generation"
     authors: "<strong>Baochen Fu*</strong>, Zijian Li, Muhao Xu, Hua Wei, Weiye Song, Yi Wan.【2025.8】"
