@@ -1,5 +1,12 @@
 main:
 
+  - title: "Can Multimodal Large Language Models Understand OCT?"
+    authors: "<strong>Baochen Fu*</strong>, Wenzhi Deng, Baihao Jin, Yang Li, Zihan Nie, Kailin Jiang, Yuntao Du, Weiye Song.【2026.7】"
+    conference_short: Preprint
+    conference: Preprint
+    image: "images/paper_overview/OCT-Bench.png"
+    website: "https://arxiv.org/abs/2607.16609"
+
   - title: "DARAG: Dynamic Attention-based Retrieval Augmented Generation"
     authors: "<strong>Baochen Fu*</strong>, Zijian Li, Muhao Xu, Hua Wei, Weiye Song, Yi Wan.【2025.8】"
     conference_short: Preprint
